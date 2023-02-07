@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xt-lovely.github.io/marigold/</id>
+    <title>Marigold Blog</title>
+    <updated>2023-02-07T06:03:25.960Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xt-lovely.github.io/marigold/"/>
+    <link rel="self" href="https://xt-lovely.github.io/marigold/atom.xml"/>
+    <subtitle>&lt;font color=&quot;#ffd666&quot;&gt;绚烂如花&lt;/font&gt;</subtitle>
+    <logo>https://xt-lovely.github.io/marigold/images/avatar.png</logo>
+    <icon>https://xt-lovely.github.io/marigold/favicon.ico</icon>
+    <rights>All rights reserved 2023, Marigold Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Few-Shot NER]]></title>
+        <id>https://xt-lovely.github.io/marigold/post/few-shot-ner/</id>
+        <link href="https://xt-lovely.github.io/marigold/post/few-shot-ner/">
+        </link>
+        <updated>2023-02-07T05:39:03.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://xt-lovely.github.io/marigold//post-images/1675748373066.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
